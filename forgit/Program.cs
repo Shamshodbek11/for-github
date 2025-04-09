@@ -4,3 +4,7 @@ Console.WriteLine("Hello, World!");
 {
     return true;
 }
+static bool Salom()
+{
+    return true;
+}
